@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Habiba Javed 👋
 
-<!--
-**Habiba-306/Habiba-306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Computer Vision Student | Python | YOLOv11 | OpenCV | MediaPipe**
 
-Here are some ideas to get you started:
+🎓 Final-year BS Artificial Intelligence — University of Haripur, KPK
+🔭 Currently working on real-time detection systems
+🌱 Exploring deep learning and computer vision research
+📫 Reach me: habibajaved150@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Exam Behaviour Monitoring](link) | YOLOv11m, MediaPipe | Real-time proctoring system |
+| [Rock Paper Scissors](link) | OpenCV, cvzone | Hand gesture recognition game |
+| [Color Detection Tool](link) | OpenCV, Tkinter | Live paint color identifier |
+| [Plant Leaf Detection](link) | TensorFlow | Multi-species classifier |
+
+---
+
+## 📊 GitHub Stats
+
+![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Habiba-306&show_icons=true&theme=default)
+
+---
+
+*Open to internships and research opportunities in Computer Vision / AI*

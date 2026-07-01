@@ -25,9 +25,9 @@
 | Project | Tech | Description |
 |---------|------|-------------|
 | [Exam Behaviour Monitoring](link) | YOLOv11m, MediaPipe | Real-time proctoring system |
-| [Rock Paper Scissors]([link](https://github.com/Habiba-306/Rock-Paper_scissor.git)) | OpenCV, cvzone | Hand gesture recognition game |
-| [Color Detection Tool]([link](https://github.com/Habiba-306/Color-detection.git)) | OpenCV, Tkinter | Live paint color identifier |
-| [Plant Leaf Detection]([link](https://github.com/Habiba-306/Plant-Leaf-Detection.git)) | TensorFlow | Multi-species classifier |
+| [Rock Paper Scissors](https://github.com/Habiba-306/Rock-Paper_scissor.git) | OpenCV, cvzone | Hand gesture recognition game |
+| [Color Detection Tool](https://github.com/Habiba-306/Color-detection.git) | OpenCV, Tkinter | Live paint color identifier |
+| [Plant Leaf Detection](https://github.com/Habiba-306/Plant-Leaf-Detection.git) | TensorFlow | Multi-species classifier |
 | [Raw Image to Sketch ](https://github.com/Habiba-306/Image-to-sketch.git) | openCV, NumPy | Converts photos to pencil sketches with adjustable grid overlays for artists |
 
 ---

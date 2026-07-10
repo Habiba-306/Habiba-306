@@ -24,7 +24,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Exam Behaviour Monitoring](link) | YOLOv11m, MediaPipe | Real-time proctoring system |
+| [Exam Behaviour Monitoring](https://github.com/Habiba-306/AI-Based-Student-Behavior-Monitoring-System-for-Examinations-.git) | YOLOv11m, MediaPipe | Real-time proctoring system |
 | [Rock Paper Scissors](https://github.com/Habiba-306/Rock-Paper_scissor.git) | OpenCV, cvzone | Hand gesture recognition game |
 | [Color Detection Tool](https://github.com/Habiba-306/Color-detection.git) | OpenCV, Tkinter | Live paint color identifier |
 | [Plant Leaf Detection](https://github.com/Habiba-306/Plant-Leaf-Detection.git) | TensorFlow | Multi-species classifier |
@@ -32,10 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Habiba-306&show_icons=true&theme=default)
-
----
 
 *Open to internships and research opportunities in Computer Vision / AI*

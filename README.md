@@ -24,7 +24,7 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Exam Behaviour Monitoring](https://github.com/Habiba-306/AI-Based-Student-Behavior-Monitoring-System-for-Examinations-.git) | YOLOv11m, MediaPipe | Real-time proctoring system |
+| [Behaviour Monitoring System During Examination](https://github.com/Habiba-306/AI-Based-Student-Behavior-Monitoring-System-for-Examinations-.git) | YOLOv11m, MediaPipe | Real-time proctoring system |
 | [Rock Paper Scissors](https://github.com/Habiba-306/Rock-Paper_scissor.git) | OpenCV, cvzone | Hand gesture recognition game |
 | [Color Detection Tool](https://github.com/Habiba-306/Color-detection.git) | OpenCV, Tkinter | Live paint color identifier |
 | [Plant Leaf Detection](https://github.com/Habiba-306/Plant-Leaf-Detection.git) | TensorFlow | Multi-species classifier |

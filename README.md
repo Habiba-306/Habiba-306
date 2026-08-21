@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Habiba Javed
 
-****AI & Computer Vision Researcher | Graduated | BS Artificial Intelligence ****  
-University of Haripur, Pakistan 
+**AI & Computer Vision Researcher**
+**BS Artificial Intelligence | Graduated | University of Haripur, Pakistan** 
 
 🔬 **Research Interests:**
 - Real-time Human Behavior Analysis
@@ -23,7 +23,7 @@ University of Haripur, Pakistan
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat&logo=google&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFE165?style=flat&logo=python&logoColor=black)
-![YOLOv11](https://img.shields.io/badge/Tkinter-FFE165?style=flat&logo=python&logoColor=black)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00BFFF?style=flat&logo=ultralytics&logoColor=white)
 ---
 
 ## 📌 Featured Projects

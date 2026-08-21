@@ -133,6 +133,8 @@
 
 <div align="center">
 
-### 🎯 Open to Master's Research Opportunities in Computer Vision / AI (CSC Scholarship 2027)
+### 🎯 Open to Master's Research Opportunities in Computer Vision / AI 
+
+📍Actively seeking CSC Scholarship 2027 | China
 
 </div>

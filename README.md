@@ -31,10 +31,10 @@
 
 ## 🏆 Featured Projects
 
-### 🔍 ExamGuard — AI-Based Student Behavior Monitoring System
+### 🔍 ExamGuard — AI-Based Student Behavior Monitoring System For Examination 
 *Real-time exam proctoring combining YOLOv11m object detection with MediaPipe head pose estimation.*
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/ExamGuard)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)]([https://github.com/Habiba-306/ExamGuard](https://github.com/Habiba-306/AI-Based-Student-Behavior-Monitoring-System-for-Examinations-.git))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-00BFFF?style=flat&logo=ultralytics&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)]()
@@ -49,7 +49,7 @@
 ### ✊ Rock-Paper-Scissors Game with Webcam
 *Real-time hand gesture recognition game using MediaPipe's 21-point hand landmark model.*
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Rock-Paper-Scissors)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Rock-Paper_scissor.git)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)]()
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)]()
 
@@ -61,7 +61,7 @@
 ### 🌿 Plant Leaf Detection
 *Image classification model for identifying Mint, Mango, Lemon, and other plant species.*
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Plant-Leaf-Detection)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Plant-Leaf-Detection.git)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)]()
 
@@ -73,7 +73,7 @@
 ### 🎨 Color Detection Tool
 *Real-time desktop application that identifies and labels paint colors from live camera input.*
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Color-detection)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Color-detection.git)
 [![Tkinter](https://img.shields.io/badge/Tkinter-FFE165?style=flat&logo=python&logoColor=black)]()
 
 ---
@@ -81,7 +81,7 @@
 ### ✏️ Image-to-Sketch Converter
 *Converts real photographs into grid-overlaid sketch outlines for artists.*
 
-[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Image-to-sketch)
+[![GitHub Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Habiba-306/Image-to-sketch.git)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)]()
 
 ---

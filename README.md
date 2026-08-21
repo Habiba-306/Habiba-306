@@ -16,14 +16,17 @@
 
 **Languages:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **CV/ML:**
+
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00BFFF?style=flat&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat&logo=google&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFE165?style=flat&logo=python&logoColor=black)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00BFFF?style=flat&logo=ultralytics&logoColor=white)
+
 ---
 
 ## 📌 Featured Projects

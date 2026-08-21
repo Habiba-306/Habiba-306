@@ -9,8 +9,8 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
-**AI & Computer Vision Researcher** | BS Artificial Intelligence  
-**University of Haripur, Pakistan** | CGPA: **3.66/4.0**
+**AI & Computer Vision Researcher** 
+**BS Artificial Intelligence | University of Haripur, Pakistan** 
 
 📧 [habibajaved150@gmail.com](mailto:habibajaved150@gmail.com) • 
 🔗 [LinkedIn](https://linkedin.com/in/habiba-javed) • 
